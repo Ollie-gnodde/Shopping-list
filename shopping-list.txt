@@ -8,7 +8,16 @@ Eggs
 Bacon
 
 #Lunch
-Mince 
-Rice
-Veggies
+
+Cheese
+Ham
+Steak
+Tortilla
+
+#Supper
+
+Pasta
+Mince
+Parmesan cheese
+
 
